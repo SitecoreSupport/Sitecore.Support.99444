@@ -1,4 +1,4 @@
-﻿namespace Sitecore.Support.CES.Client
+namespace Sitecore.Support.CES.Client
 {
     using Sitecore.Diagnostics;
     using System;
@@ -20,6 +20,11 @@
             {
                 baseResult.Proxy = new WebProxy(proxyServerConnectionString);
             }
+            if (!String.IsNullOrEmpty(Sitecore.Configuration.Settings.GetSetting("Proxy.Server.Username")))
+            {
+                baseResult.Credentials = new NetworkCredential(Sitecore.Configuration.Settings.GetSetting("Proxy.Server.Username"), Sitecore.Configuration.Settings.GetSetting("Proxy.Server.Password"));
+            }
+
 
             return baseResult;
         }
