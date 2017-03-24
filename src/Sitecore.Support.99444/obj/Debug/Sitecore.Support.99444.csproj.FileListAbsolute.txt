@@ -1,0 +1,8 @@
+C:\Users\inetpub\wwwroot\sc72rev150408\Website\bin\Sitecore.Support.99444.dll
+C:\Users\obu\Documents\GitHub\_SitecoreSupport\Sitecore.Support.99444\src\Sitecore.Support.99444\obj\Debug\Sitecore.Support.99444.dll
+C:\Users\obu\Documents\GitHub\_SitecoreSupport\Sitecore.Support.99444\src\Sitecore.Support.99444\obj\Debug\Sitecore.Support.99444.pdb
+C:\Users\obu\Documents\GitHub\_SitecoreSupport\Sitecore.Support.99444\src\bin\Debug\Sitecore.Support.99444.dll
+C:\Users\obu\Documents\GitHub\_SitecoreSupport\Sitecore.Support.99444\src\bin\Debug\Sitecore.Support.99444.pdb
+C:\Users\obu\Documents\GitHub\_SitecoreSupport\Sitecore.Support.99444\src\Sitecore.Support.99444\bin\Debug\Sitecore.Support.99444.dll
+C:\Users\obu\Documents\GitHub\_SitecoreSupport\Sitecore.Support.99444\src\Sitecore.Support.99444\bin\Debug\Sitecore.Support.99444.pdb
+C:\Users\obu\Documents\GitHub\_SitecoreSupport\Sitecore.Support.99444\src\Sitecore.Support.99444\bin\Debug\App_Config\Include\CES\Sitecore.Support.99444.config
